@@ -1,0 +1,10 @@
+title: QuGenAI
+description: AI Systems, LLM Infrastructure, Research Notes
+theme: minima
+markdown: kramdown
+
+header_pages:
+  - about.md
+  - blog.md
+  - projects.md
+  - research.md
